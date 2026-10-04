@@ -44,7 +44,7 @@ modified: '2026-07-21'
 tags:
 - Company
 - PropTech
-- Real-Estate
+- Real Estate
 - Rentals
 - Apartments
 - Property Management
@@ -59,6 +59,7 @@ tags_raw:
 - Property Management
 - Housing
 - China
+- Real-Estate
 common:
 - type: Website
   url: https://www.ziroom.com
